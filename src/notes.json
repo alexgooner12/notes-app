@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Homework",
+        "date": "11/13/2019",
+        "body": "English questions",
+        "author": "Marco",
+        "status": "uncompleted"
+    },
+    {
+        "title": "Laundry",
+        "date": "10/13/2019",
+        "body": "Pick up shirt from dry cleaners",
+        "author": "Marge",
+        "status": "completed"
+    },
+    {
+        "title": "Detention",
+        "date": "11/13/2019",
+        "body": "Do something borring",
+        "author": "Bart",
+        "status": "uncompleted"
+    },
+    {
+        "title": "Music",
+        "date": "01/13/2019",
+        "body": "Play the sax",
+        "author": "Lisa",
+        "status": "uncompleted"
+    },
+    {
+        "title": "Groceries",
+        "date": "04/13/2019",
+        "body": "Go to Quicky Mart and buy beer",
+        "author": "Homer",
+        "status": "uncompleted"
+    }
+]
